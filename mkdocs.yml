@@ -1,7 +1,7 @@
 # Project information
 site_name: "Code With Enoch"
-site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
-site_author: "peaceiris"
+site_description: " code with Enoch George."
+site_author: "enochgeorge"
 site_url: "https://enochgeorge.com/"
 
 # Copyright
@@ -23,8 +23,8 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: "blue"
-    accent: "blue"
+    primary: "#3cb88e"
+    accent: "#3cb88e"
   features:
     - tabs
   #font:
