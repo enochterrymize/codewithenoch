@@ -60,28 +60,29 @@ extra:
   manifest: "manifest.json"
   social:
     - icon: "fontawesome/brands/github-alt"
-      link: "https://github.com/peaceiris"
+      link: "https://github.com/enochterrymize"
     - icon: "fontawesome/brands/twitter"
-      link: "https://twitter.com/piris314en"
+      link: "https://twitter.com/enochterrymize"
 
 # Page tree
 nav:
   - "Home": "index.md"
-  - "Material for MkDocs": "material-for-mkdocs.md"
-  - "Getting started":
-      - "Download boilerplate": "getting-started/download-boilerplate.md"
-      - "pipenv": "getting-started/pipenv.md"
-      - "invoke": "getting-started/invoke.md"
-      - "Docker": "getting-started/docker.md"
-      - "pip": "getting-started/pip.md"
-  - "Hosting and Deployment":
+  - "MarkDown Tutorial": "material-for-mkdocs.md"
+  - "50 Days of Coding":
+      - "Day 1": "getting-started/download-boilerplate.md"
+      - "Day 2": "getting-started/pipenv.md"
+      - "Day 3": "getting-started/invoke.md"
+      - "Day 4": "getting-started/docker.md"
+      - "Day 5": "getting-started/pip.md"
+  - "React Native":
       - "Combinations": "hosting-and-deployment/combinations.md"
       - "Netlify": "hosting-and-deployment/netlify.md"
       - "GitHub Pages": "hosting-and-deployment/github-pages.md"
       - "GitLab Pages": "hosting-and-deployment/gitlab-pages.md"
       - "AWS Amplify Console": "hosting-and-deployment/aws-amplify-console.md"
-  - "Extensions":
+  - "React":
       - "MathJax": "extensions/mathjax.md"
       - "Code Hilite": "extensions/code-hilite.md"
       - "Footnote": "extensions/footnote.md"
-  - "License": "license.md"
+  - "GitHub": "license.md"
+  - "Linux": "license.md"
