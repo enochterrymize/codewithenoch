@@ -71,20 +71,21 @@ nav:
   - "Home": "index.md"
   - "MarkDown Tutorial": "material-for-mkdocs.md"
   - "API Tutorial": "material-for-mkdocs.md"
-  - "50 Days of Coding":
-      - "Day1 ": "getting-started/day1.md"
-      - "Day2": "getting-started/day2.md"
-      - "Day3": "getting-started/day3.md"
-      - "Day4": "getting-started/day4.md"
-      - "Day5": "getting-started/day5.md"
+  - "JavaScript Projects":
+    - "50 Days of Coding":
+       - "Day1 ": "javascript-projects/day1.md"
+       - "Day2": "javascript-projects/day2.md"
+       - "Day3": "javascript-projects/day3.md"
+       - "Day4": "javascript-projects/day4.md"
+       - "Day5": "javascript-projects/day5.md"
   - "React Native":
-      - "Combinations": "hosting-and-deployment/combinations.md"
+      - "Navigation": "hosting-and-deployment/combinations.md"
       - "Netlify": "hosting-and-deployment/netlify.md"
       - "GitHub Pages": "hosting-and-deployment/github-pages.md"
       - "GitLab Pages": "hosting-and-deployment/gitlab-pages.md"
       - "AWS Amplify Console": "hosting-and-deployment/aws-amplify-console.md"
   - "React":
-      - "MathJax": "extensions/mathjax.md"
+      - "Hooks": "extensions/mathjax.md"
       - "Code Hilite": "extensions/code-hilite.md"
       - "Footnote": "extensions/footnote.md"
   - "GitHub": "license.md"
