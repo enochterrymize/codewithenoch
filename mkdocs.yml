@@ -69,6 +69,11 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
+   - "Resume/CV":
+       - "Day1 ": "javascript-projects/day1.md"
+   - "Projects":
+       - "School-Chat ": "projects/school-chat.md"
+   - "Hire Me": "projects/hire-me.md"  
   - "MarkDown Tutorial": "material-for-mkdocs.md"
   - "API Tutorial": "material-for-mkdocs.md"
   - "JavaScript Projects":
