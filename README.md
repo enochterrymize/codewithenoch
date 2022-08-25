@@ -11,52 +11,59 @@ hide:
 
 ## Experience
 
-Check Out my Youtube Channel 👉 [Codewithenoch](Code With Enoch): 
-April 2021 - June 2021
-### Full-Stack-Developer - Content Creator
+### Content Creator - Trainer
+Check Out my Youtube Channel 👉 [Codewithenoch]: (https://www.youtube.com/channel/UC8v3chb3-8IYNmQKZq58T3g)
+
+### Content Creator - Full-Stack-Developer 
+Development of cross-platform communication Web and Mobile app using REACT NATIVE, AWS, and GraphQL : [Digitale Schule - DSGVO KONFORMES Schul-Messenger Kommunikationstool mit LMS](https://www.school-chat.com)
+
+
+### Content Creator - Full-Stack-Developer 
+June 2021 - Present
 React Native, Javascript, AWS Serverless
 
-April 2021 - June 2021
+
 ### Software Engineer - Nextcloud GmbH
+April 2021 - June 2021
 Code Migration from Javscript to VUE JS and Technical Support.
 
 Frontend Development in VUE JS and JS
 
-April 2019 - Present
+
 ### Freelancer - Full Stack Developer
+April 2019 - April 2021
 Recent Project: Digitale Schule App – Cross-platform/Hybrid development/HTML/CSS/JS/Node.js/React Native/React/ Graphql API 
 
 Designing UI and Frontend Development in React and Mobile Application with effective use of AWS Services.
 
-Feb 2019 - April 2019
-### CTO - ESRA GmbH
-React Native / AWS 
 
+### CTO - ESRA GmbH
+Feb 2019 - April 2019
 Pilot Project:  FrogFish App – Überwachungssystem verwandelt ANDROID/IOS 
 
 App UI Designing and Defining  Technology Specs and Architecting with AWS
 
-April 2018 - October 2018
+
 ### PHP Developer / Analyst - XTRADE GmbH
+April 2018 - October 2018
 PHP Developer / Ecommerce Digiatl Marketing Analyst
 
 www.tauro.de – Ecommerce Web Project:  Magento
 
 Analytics, Site Maintenance
 
-April 2013 - March 2018
 ### CEO - CRAWES Media and Technologies Pvt Ltd
+April 2013 - March 2018
 WordPress Designer / Android App Developer
 
 Website analysis, WordPress  Designing and Development. and  Android App Development
 
-May 2006 - August 2008
+
 ### Software Engineer - Entever System
+May 2006 - August 2008
 JAVA / J2EE  Developer
 
 Project: IAgent – Web Applicaion Development in Java, Servelet, JSP, Mysql. 
-
-
 
 ## Quick start
 
@@ -87,7 +94,7 @@ inv serve --config-file mkdocs-sample.yml
 
 [MIT License]: https://github.com/peaceiris/mkdocs-material-boilerplate/blob/main/LICENSE
 [The graduate cap icon]: https://www.flaticon.com/free-icon/graduate-cap_62627
-[Codewithenoch]: https://www.youtube.com/channel/UC8v3chb3-8IYNmQKZq58T3g
+
 
 [www.flaticon.com]: https://www.flaticon.com/
 [CC 3.0 BY]: http://creativecommons.org/licenses/by/3.0/
