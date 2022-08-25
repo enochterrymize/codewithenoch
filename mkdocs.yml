@@ -69,11 +69,11 @@ nav:
   - "Home": "index.md"
   - "MarkDown Tutorial": "material-for-mkdocs.md"
   - "50 Days of Coding":
-      - "Day 1": "getting-started/download-boilerplate.md"
-      - "Day 2": "getting-started/pipenv.md"
-      - "Day 3": "getting-started/invoke.md"
-      - "Day 4": "getting-started/docker.md"
-      - "Day 5": "getting-started/pip.md"
+      - "Day1 ": "getting-started/download-boilerplate.md"
+      - "Day2": "getting-started/pipenv.md"
+      - "Day3": "getting-started/invoke.md"
+      - "Day4": "getting-started/docker.md"
+      - "Day5": "getting-started/pip.md"
   - "React Native":
       - "Combinations": "hosting-and-deployment/combinations.md"
       - "Netlify": "hosting-and-deployment/netlify.md"
