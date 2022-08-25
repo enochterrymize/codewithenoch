@@ -59,4 +59,4 @@ inv serve --config-file mkdocs-sample.yml
 
 ## About Maintainer
 
-- [EnochGeorge Homepage](https://Enoch George.com/)
+- [EnochGeorge Homepage](https://enochgeorge.com/)
