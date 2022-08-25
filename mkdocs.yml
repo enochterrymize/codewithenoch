@@ -33,7 +33,7 @@ theme:
   #text: 'Ubuntu'
   #code: 'Ubuntu Mono'
   #icon:
-  #logo: 'images/logo.svg'
+  logo: 'images/logo.png'
   #favicon: 'assets/images/favicon.ico'
 
 # Extensions

@@ -11,19 +11,19 @@ hide:
 
 ## Experience
 
-### Content Creator - Trainer
-Check Out my Youtube Channel 👉 [Codewithenoch]: (https://www.youtube.com/channel/UC8v3chb3-8IYNmQKZq58T3g)
+### Product Creator - Content Creation
+Check Out my Youtube Channel 👉 [Codewithenoch](https://www.youtube.com/channel/UC8v3chb3-8IYNmQKZq58T3g)
 
-### Content Creator - Full-Stack-Developer 
+### Full-Stack-Developer 
 Development of cross-platform communication Web and Mobile app using REACT NATIVE, AWS, and GraphQL : [Digitale Schule - DSGVO KONFORMES Schul-Messenger Kommunikationstool mit LMS](https://www.school-chat.com)
 
 
-### Content Creator - Full-Stack-Developer 
+### Freelancer - [co-founder.dev](https://co-founder.dev)
 June 2021 - Present
 React Native, Javascript, AWS Serverless
 
 
-### Software Engineer - Nextcloud GmbH
+### Software Engineer - [Nextcloud GmbH](https://nextcloud.com)
 April 2021 - June 2021
 Code Migration from Javscript to VUE JS and Technical Support.
 
