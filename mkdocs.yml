@@ -69,7 +69,7 @@ extra:
       link: "https://medium.com/enochterrymize"
   analytics:
     provider: google
-    property: G-XXXXXXXXXX
+    property: G-2XYRNSGJBZ
 
   
 
@@ -98,3 +98,5 @@ nav:
       - "Footnote": "extensions/footnote.md"
   - "GitHub": "license.md"
   - "Linux": "license.md"
+  - "Agile / Project Management ": "license.md"
+  - "Developer Challenge": "license.md"
