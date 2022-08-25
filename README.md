@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  
+---
+
 <h1 align="center">
 <img src="http://wordpress.p623538.webspaceconfig.de/wp-content/uploads/2022/08/channelart.png" >
 <br>Code With Enoch<br>React Native, Javascript, AWS
