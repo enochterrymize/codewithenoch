@@ -5,7 +5,6 @@ hide:
 ---
 <h1 align="center">
 <img src="http://wordpress.p623538.webspaceconfig.de/wp-content/uploads/2022/08/channelart.png" >
-<br>Code With Enoch<br>React Native, Javascript, AWS
 </h1>
 
 
@@ -65,19 +64,7 @@ JAVA / J2EE  Developer
 
 Project: IAgent – Web Applicaion Development in Java, Servelet, JSP, Mysql. 
 
-## Quick start
-
-```sh
-git clone https://github.com/peaceiris/mkdocs-material-boilerplate.git
-cd mkdocs-material-boilerplate
-pipenv sync --dev
-pipenv shell
-inv serve --config-file mkdocs-sample.yml
-```
-
-
-
-## Links
+## Products Links
 
 - [mkdocs/mkdocs: Project documentation with Markdown - GitHub]
 - [squidfunk/mkdocs-material: A Material Design theme for MkDocs]
