@@ -3,7 +3,7 @@
 <br>Code With Enoch<br>React Native, Javascript, AWS
 </h1>
 
-![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)]([s3://codewithenoch-assets/CodewithEnoch YouTube Channel Art.png](https://codewithenoch-assets.s3.us-east-2.amazonaws.com/CodewithEnochYouTubeChannelArt.png))
+![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)]([[s3://codewithenoch-assets/CodewithEnoch YouTube Channel Art.png](https://codewithenochawscheatsheet.s3.us-east-2.amazonaws.com/channelart.png)](https://codewithenochawscheatsheet.s3.us-east-2.amazonaws.com/channelart.png))
 
 
 
