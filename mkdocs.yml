@@ -23,8 +23,8 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: "#3cb88e"
-    accent: "#3cb88e"
+    primary: "green"
+    accent: "green"
   features:
     - tabs
   #font:
@@ -69,11 +69,11 @@ nav:
   - "Home": "index.md"
   - "MarkDown Tutorial": "material-for-mkdocs.md"
   - "50 Days of Coding":
-      - "Day1 ": "getting-started/download-boilerplate.md"
-      - "Day2": "getting-started/pipenv.md"
-      - "Day3": "getting-started/invoke.md"
-      - "Day4": "getting-started/docker.md"
-      - "Day5": "getting-started/pip.md"
+      - "Day1 ": "getting-started/day1.md"
+      - "Day2": "getting-started/day2.md"
+      - "Day3": "getting-started/day3.md"
+      - "Day4": "getting-started/day4.md"
+      - "Day5": "getting-started/day5.md"
   - "React Native":
       - "Combinations": "hosting-and-deployment/combinations.md"
       - "Netlify": "hosting-and-deployment/netlify.md"

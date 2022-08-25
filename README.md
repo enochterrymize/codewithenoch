@@ -63,4 +63,4 @@ inv serve --config-file mkdocs-sample.yml
 
 ## About Maintainer
 
-- [peaceiris Homepage](https://peaceiris.com/)
+- [EnochGeorge Homepage](https://Enoch George.com/)
