@@ -63,6 +63,9 @@ extra:
       link: "https://github.com/enochterrymize"
     - icon: "fontawesome/brands/twitter"
       link: "https://twitter.com/enochterrymize"
+theme:
+  features:
+    - navigation.tabs
 
 # Page tree
 nav:
