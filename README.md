@@ -1,10 +1,9 @@
 ---
 hide:
   - navigation
-  
 ---
 <h1 align="center">
-<img src="http://wordpress.p623538.webspaceconfig.de/wp-content/uploads/2022/08/channelart.png" >
+<img src="https://codewithenoch-assets.s3.us-east-2.amazonaws.com/channelart.png" >
 </h1>
 
 
