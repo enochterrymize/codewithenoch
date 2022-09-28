@@ -77,7 +77,7 @@ extra:
 nav:
   - "Home": "index.md"
   - "API Tutorial": "material-for-mkdocs.md"
-  - "MarkDown Tutorial": "material-for-mkdocs.md"
+  - "MarkDown Tutorial": "markdown-tutorials.md"
   - "API Tutorial": "material-for-mkdocs.md"
   - "JavaScript Projects":
     - "50 Days of Coding":
