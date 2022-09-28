@@ -81,17 +81,17 @@ nav:
   - "API Tutorial": "material-for-mkdocs.md"
   - "JavaScript Projects":
     - "Javascript Concepts":
-       - "Filter Array Method": "javascript-concepts/Filter-Array.md"
-       - "Map Array Method": "javascript-concepts/Map-Array.md"
-       - "Reduce Array Method": "javascript-concepts/Reduce-Array.md"
-       - "Find Array Method": "javascript-concepts/Find-Array.md"
-       - "Sort Array Method": "javascript-concepts/Sort-Array.md"
+       - "Filter Array Method": "javascript-projects/javascript-concepts/Filter-Array.md"
+       - "Map Array Method": "javascript-projects/javascript-concepts/Map-Array.md"
+       - "Reduce Array Method": "javascript-projects/javascript-concepts/Reduce-Array.md"
+       - "Find Array Method": "javascript-projects/javascript-concepts/Find-Array.md"
+       - "Sort Array Method": "javascript-projects/javascript-concepts/Sort-Array.md"
     - "50 Days of Coding":
-       - "Day1 ": "javascript-projects/day1.md"
-       - "Day2": "javascript-projects/day2.md"
-       - "Day3": "javascript-projects/day3.md"
-       - "Day4": "javascript-projects/day4.md"
-       - "Day5": "javascript-projects/day5.md"
+       - "Day1 ": "javascript-projects/50-projects/day1.md"
+       - "Day2": "javascript-projects/50-projects/day2.md"
+       - "Day3": "javascript-projects/50-projects/day3.md"
+       - "Day4": "javascript-projects/50-projects/day4.md"
+       - "Day5": "javascript-projects/50-projects/day5.md"
   - "React Native":
       - "Navigation": "hosting-and-deployment/combinations.md"
       - "Netlify": "hosting-and-deployment/netlify.md"
