@@ -80,6 +80,12 @@ nav:
   - "MarkDown Tutorial": "markdown-tutorials.md"
   - "API Tutorial": "material-for-mkdocs.md"
   - "JavaScript Projects":
+    - "Javascript Concepts":
+       - "Filter Array Method": "javascript/Filter-Array.md"
+       - "Map Array Method": "javascript/Map-Array.md"
+       - "Reduce Array Method": "javascript/Reduce-Array.md"
+       - "Find Array Method": "javascript/Find-Array.md"
+       - "Sort Array Method": "javascript/Sort-Array.md"
     - "50 Days of Coding":
        - "Day1 ": "javascript-projects/day1.md"
        - "Day2": "javascript-projects/day2.md"
