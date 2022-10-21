@@ -24,8 +24,8 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: "green"
-    accent: "green"
+    primary: "#23766e"
+    accent: "#23766e"
   features:
     - navigation.tabs
     - navigation.tabs.sticky
