@@ -76,8 +76,8 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "CSS Tutorial": "css-tutorial.md"
-  - "CSS Concepts":
+  - "CSS Tutorial": 
+    - "CSS Concepts":
        - "Understanding css": "css-tutorial/css-concepts/understanding-css.md"
   - "MarkDown Tutorial": "markdown-tutorials.md"
   - "API Tutorial": "material-for-mkdocs.md"
