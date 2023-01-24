@@ -1,6 +1,6 @@
-# Filter - Array Method
+# Understanding CSS : Thinking inside the Box
 
-OK, then, so we've already seen a few different ways that we can iterate an array using loops and
+Imagine that there is an invisible box around every HTML Element.
 
 we've also seen the for each method which we can use in a race to find a callback function for each
 
