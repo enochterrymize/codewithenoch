@@ -34,3 +34,31 @@ Declaration indicate how the elements reffered to in the selector should be styl
 
 Declaration are split into two parts( a property and a value ) and are seperated by colon.
 
+CSS declaration sit inside curly brackets and each is made up of two parts: a property and a value seperated by a colon; you can specify several properties in one declartion, each seperated by semicolon.
+
+```
+h1,h2,h3{
+    font-family:Arial;
+    color: yellow;
+}
+```
+Property indidicate the aspects of the elements you want to change.For Example font,color, width, height, and border.
+
+Value specify the settings you want to use for the chosen properties. 
+
+## Using External CSS
+
+# <link>
+
+The <link> element can be used in an HTML document to tell the browser where to find the CSS file used to style the page. It is an empty element meaining it does not need a closing tag, and it lives inside the <head> element. it should use three attributes.
+
+```
+<link href="" type="" rel="" />
+```
+## href
+
+This specifies the path to the CSS File(Which is often placed in a folder called css or styles)
+
+## type 
+
+
