@@ -24,8 +24,8 @@ theme:
     previous: 80 # p
     search: 83 # s
   palette:
-    primary: "#23766e"
-    accent: "#23766e"
+    primary: "green"
+    accent: "green"
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -76,7 +76,9 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
-  - "API Tutorial": "material-for-mkdocs.md"
+  - "CSS Tutorial": "css-tutorial.md"
+  - "CSS Concepts":
+       - "Understanding css": "css-tutorial/css-concepts/understanding-css.md"
   - "MarkDown Tutorial": "markdown-tutorials.md"
   - "API Tutorial": "material-for-mkdocs.md"
   - "JavaScript Projects":
