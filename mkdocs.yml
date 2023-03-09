@@ -80,7 +80,7 @@ nav:
     - "CSS Concepts":
        - "Understanding css": "css-tutorial/css-concepts/understanding-css.md"
   - "MarkDown Tutorial": "markdown-tutorials.md"
-  - "API Tutorial": "material-for-mkdocs.md"
+  - "API Tutorial": "api-tutorials.md"
   - "JavaScript Projects":
     - "Javascript Concepts":
        - "Filter Array Method": "javascript-projects/javascript-concepts/Filter-Array.md"

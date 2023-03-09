@@ -48,9 +48,9 @@ Value specify the settings you want to use for the chosen properties.
 
 ## Using External CSS
 
-# <link>
+## <link>
 
-The <link> element can be used in an HTML document to tell the browser where to find the CSS file used to style the page. It is an empty element meaining it does not need a closing tag, and it lives inside the <head> element. it should use three attributes.
+The link element can be used in an HTML document to tell the browser where to find the CSS file used to style the page. It is an empty element meaining it does not need a closing tag, and it lives inside the <head> element. it should use three attributes.
 
 ```
 <link href="" type="" rel="" />
@@ -61,4 +61,8 @@ This specifies the path to the CSS File(Which is often placed in a folder called
 
 ## type 
 
+This attribute specifies the type of document being linked to. The value should be text/
 
+## rel
+
+This specifies the relationship between the HTML Page and the file it is linked to. The value should be stylesheet when linking to a CSS File.
