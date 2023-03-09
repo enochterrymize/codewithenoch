@@ -106,5 +106,5 @@ nav:
       - "Footnote": "extensions/footnote.md"
   - "GitHub": "license.md"
   - "Linux": "license.md"
-  - "Agile / Project Management ": "license.md"
+  - "Automation in Python": "automation-in-python.md"
   - "Developer Challenge": "license.md"
