@@ -83,11 +83,8 @@ nav:
   - "API Tutorial": "api-tutorials.md"
   - "JavaScript Projects":
     - "Javascript Concepts":
-       - "Filter Array Method": "javascript-projects/javascript-concepts/Filter-Array.md"
-       - "Map Array Method": "javascript-projects/javascript-concepts/Map-Array.md"
-       - "Reduce Array Method": "javascript-projects/javascript-concepts/Reduce-Array.md"
-       - "Find Array Method": "javascript-projects/javascript-concepts/Find-Array.md"
-       - "Sort Array Method": "javascript-projects/javascript-concepts/Sort-Array.md"
+       - "Fetch API": "javascript-projects/javascript-concepts/fetch-api.md"
+   
     - "50 Days of Coding":
        - "Day1 ": "javascript-projects/50-projects/day1.md"
        - "Day2": "javascript-projects/50-projects/day2.md"
